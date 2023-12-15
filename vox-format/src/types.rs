@@ -51,7 +51,7 @@ impl Version {
 
 impl Default for Version {
     fn default() -> Self {
-        Self(150)
+        Self(200)
     }
 }
 
